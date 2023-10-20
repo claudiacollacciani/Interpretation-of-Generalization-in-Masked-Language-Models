@@ -1,0 +1,1243 @@
+quantifier	sent	category	subject	pos_target
+Gen	Telephones are used to communicate with the outside world.	quasidef	Telephones	0
+Few	Few telephones are used to communicate with the outside world.	quasidef	Telephones	1
+Some	Some telephones are used to communicate with the outside world.	quasidef	Telephones	1
+Many	Many telephones are used to communicate with the outside world.	quasidef	Telephones	1
+Most	Most telephones are used to communicate with the outside world.	quasidef	Telephones	1
+All	All telephones are used to communicate with the outside world.	quasidef	Telephones	1
+Gen	Stilettos can be purchased online.	quasidef	Stilettos	0
+Few	Few stilettos can be purchased online.	quasidef	Stilettos	1
+Some	Some stilettos can be purchased online.	quasidef	Stilettos	1
+Many	Many stilettos can be purchased online.	quasidef	Stilettos	1
+Most	Most stilettos can be purchased online.	quasidef	Stilettos	1
+All	All stilettos can be purchased online.	quasidef	Stilettos	1
+Gen	Spaceships have to be able to move.	invirtue	Spaceships	0
+Few	Few spaceships have to be able to move.	invirtue	Spaceships	1
+Some	Some spaceships have to be able to move.	invirtue	Spaceships	1
+Many	Many spaceships have to be able to move.	invirtue	Spaceships	1
+Most	Most spaceships have to be able to move.	invirtue	Spaceships	1
+All	All spaceships have to be able to move.	invirtue	Spaceships	1
+Gen	Spaceships have some sort of power.	quasidef	Spaceships	0
+Few	Few spaceships have some sort of power.	quasidef	Spaceships	1
+Some	Some spaceships have some sort of power.	quasidef	Spaceships	1
+Many	Many spaceships have some sort of power.	quasidef	Spaceships	1
+Most	Most spaceships have some sort of power.	quasidef	Spaceships	1
+All	All spaceships have some sort of power.	quasidef	Spaceships	1
+Gen	Spaceships are used to travel.	quasidef	Spaceships	0
+Few	Few spaceships are used to travel.	quasidef	Spaceships	1
+Some	Some spaceships are used to travel.	quasidef	Spaceships	1
+Many	Many spaceships are used to travel.	quasidef	Spaceships	1
+Most	Most spaceships are used to travel.	quasidef	Spaceships	1
+All	All spaceships are used to travel.	quasidef	Spaceships	1
+Gen	Skunks should be left alone.	character	Skunks	0
+Few	Few skunks should be left alone.	character	Skunks	1
+Some	Some skunks should be left alone.	character	Skunks	1
+Many	Many skunks should be left alone.	character	Skunks	1
+Most	Most skunks should be left alone.	character	Skunks	1
+All	All skunks should be left alone.	character	Skunks	1
+Gen	Raccoons are found in wooded areas.	invirtue	Raccoons	0
+Few	Few raccoons are found in wooded areas.	invirtue	Raccoons	1
+Some	Some raccoons are found in wooded areas.	invirtue	Raccoons	1
+Many	Many raccoons are found in wooded areas.	invirtue	Raccoons	1
+Most	Most raccoons are found in wooded areas.	invirtue	Raccoons	1
+All	All raccoons are found in wooded areas.	invirtue	Raccoons	1
+Gen	Pecans should be roasted.	invirtue	Pecans	0
+Few	Few pecans should be roasted.	invirtue	Pecans	1
+Some	Some pecans should be roasted.	invirtue	Pecans	1
+Many	Many pecans should be roasted.	invirtue	Pecans	1
+Most	Most pecans should be roasted.	invirtue	Pecans	1
+All	All pecans should be roasted.	invirtue	Pecans	1
+Gen	Pecans have a nutty aroma.	quasidef	Pecans	0
+Few	Few pecans have a nutty aroma.	quasidef	Pecans	1
+Some	Some pecans have a nutty aroma.	quasidef	Pecans	1
+Many	Many pecans have a nutty aroma.	quasidef	Pecans	1
+Most	Most pecans have a nutty aroma.	quasidef	Pecans	1
+All	All pecans have a nutty aroma.	quasidef	Pecans	1
+Gen	Pecans have a hard shell.	quasidef	Pecans	0
+Few	Few pecans have a hard shell.	quasidef	Pecans	1
+Some	Some pecans have a hard shell.	quasidef	Pecans	1
+Many	Many pecans have a hard shell.	quasidef	Pecans	1
+Most	Most pecans have a hard shell.	quasidef	Pecans	1
+All	All pecans have a hard shell.	quasidef	Pecans	1
+Gen	Pecans can be found in their natural state in the wild.	character	Pecans	0
+Few	Few pecans can be found in their natural state in the wild.	character	Pecans	1
+Some	Some pecans can be found in their natural state in the wild.	character	Pecans	1
+Many	Many pecans can be found in their natural state in the wild.	character	Pecans	1
+Most	Most pecans can be found in their natural state in the wild.	character	Pecans	1
+All	All pecans can be found in their natural state in the wild.	character	Pecans	1
+Gen	Lorries are used to transport goods from one point to another.	quasidef	Lorries	0
+Few	Few lorries are used to transport goods from one point to another.	quasidef	Lorries	1
+Some	Some lorries are used to transport goods from one point to another.	quasidef	Lorries	1
+Many	Many lorries are used to transport goods from one point to another.	quasidef	Lorries	1
+Most	Most lorries are used to transport goods from one point to another.	quasidef	Lorries	1
+All	All lorries are used to transport goods from one point to another.	quasidef	Lorries	1
+Gen	Insulations are made of a material.	character	Insulations	0
+Few	Few insulations are made of a material.	character	Insulations	1
+Some	Some insulations are made of a material.	character	Insulations	1
+Many	Many insulations are made of a material.	character	Insulations	1
+Most	Most insulations are made of a material.	character	Insulations	1
+All	All insulations are made of a material.	character	Insulations	1
+Gen	Ice creams have a thick, creamy consistency.	quasidef	Ice creams	1
+Few	Few ice creams have a thick, creamy consistency.	quasidef	Ice creams	2
+Some	Some ice creams have a thick, creamy consistency.	quasidef	Ice creams	2
+Many	Many ice creams have a thick, creamy consistency.	quasidef	Ice creams	2
+Most	Most ice creams have a thick, creamy consistency.	quasidef	Ice creams	2
+All	All ice creams have a thick, creamy consistency.	quasidef	Ice creams	2
+Gen	Hotel rooms are equipped with a microwave.	character	Hotel rooms	1
+Few	Few hotel rooms are equipped with a microwave.	character	Hotel rooms	2
+Some	Some hotel rooms are equipped with a microwave.	character	Hotel rooms	2
+Many	Many hotel rooms are equipped with a microwave.	character	Hotel rooms	2
+Most	Most hotel rooms are equipped with a microwave.	character	Hotel rooms	2
+All	All hotel rooms are equipped with a microwave.	character	Hotel rooms	2
+Gen	Guns are used in self defense.	invirtue	Guns	0
+Few	Few guns are used in self defense.	invirtue	Guns	1
+Some	Some guns are used in self defense.	invirtue	Guns	1
+Many	Many guns are used in self defense.	invirtue	Guns	1
+Most	Most guns are used in self defense.	invirtue	Guns	1
+All	All guns are used in self defense.	invirtue	Guns	1
+Gen	Detergents have a strong scent.	character	Detergents	0
+Few	Few detergents have a strong scent.	character	Detergents	1
+Some	Some detergents have a strong scent.	character	Detergents	1
+Many	Many detergents have a strong scent.	character	Detergents	1
+Most	Most detergents have a strong scent.	character	Detergents	1
+All	All detergents have a strong scent.	character	Detergents	1
+Gen	Crucifixions have been carried out in public places.	character	Crucifixions	0
+Few	Few crucifixions have been carried out in public places.	character	Crucifixions	1
+Some	Some crucifixions have been carried out in public places.	character	Crucifixions	1
+Many	Many crucifixions have been carried out in public places.	character	Crucifixions	1
+Most	Most crucifixions have been carried out in public places.	character	Crucifixions	1
+All	All crucifixions have been carried out in public places.	character	Crucifixions	1
+Gen	Compressions should only be performed by trained medical personnel.	character	Compressions	0
+Few	Few compressions should only be performed by trained medical personnel.	character	Compressions	1
+Some	Some compressions should only be performed by trained medical personnel.	character	Compressions	1
+Many	Many compressions should only be performed by trained medical personnel.	character	Compressions	1
+Most	Most compressions should only be performed by trained medical personnel.	character	Compressions	1
+All	All compressions should only be performed by trained medical personnel.	character	Compressions	1
+Gen	Comets may have a tail.	character	Comets	0
+Few	Few comets may have a tail.	character	Comets	1
+Some	Some comets may have a tail.	character	Comets	1
+Many	Many comets may have a tail.	character	Comets	1
+Most	Most comets may have a tail.	character	Comets	1
+All	All comets may have a tail.	character	Comets	1
+Gen	Clocks are synchronized to the second.	character	Clocks	0
+Few	Few clocks are synchronized to the second.	character	Clocks	1
+Some	Some clocks are synchronized to the second.	character	Clocks	1
+Many	Many clocks are synchronized to the second.	character	Clocks	1
+Most	Most clocks are synchronized to the second.	character	Clocks	1
+All	All clocks are synchronized to the second.	character	Clocks	1
+Gen	Cameras are used to take photos of people.	quasidef	Cameras	0
+Few	Few cameras are used to take photos of people.	quasidef	Cameras	1
+Some	Some cameras are used to take photos of people.	quasidef	Cameras	1
+Many	Many cameras are used to take photos of people.	quasidef	Cameras	1
+Most	Most cameras are used to take photos of people.	quasidef	Cameras	1
+All	All cameras are used to take photos of people.	quasidef	Cameras	1
+Gen	Bumpers are made of metal.	invirtue	Bumpers	0
+Few	Few bumpers are made of metal.	invirtue	Bumpers	1
+Some	Some bumpers are made of metal.	invirtue	Bumpers	1
+Many	Many bumpers are made of metal.	invirtue	Bumpers	1
+Most	Most bumpers are made of metal.	invirtue	Bumpers	1
+All	All bumpers are made of metal.	invirtue	Bumpers	1
+Gen	Bulldozers are used to clear land to make way for new housing.	invirtue	Bulldozers	0
+Few	Few bulldozers are used to clear land to make way for new housing.	invirtue	Bulldozers	1
+Some	Some bulldozers are used to clear land to make way for new housing.	invirtue	Bulldozers	1
+Many	Many bulldozers are used to clear land to make way for new housing.	invirtue	Bulldozers	1
+Most	Most bulldozers are used to clear land to make way for new housing.	invirtue	Bulldozers	1
+All	All bulldozers are used to clear land to make way for new housing.	invirtue	Bulldozers	1
+Gen	Bleaches may be used to whiten the teeth.	character	Bleaches	0
+Few	Few bleaches may be used to whiten the teeth.	character	Bleaches	1
+Some	Some bleaches may be used to whiten the teeth.	character	Bleaches	1
+Many	Many bleaches may be used to whiten the teeth.	character	Bleaches	1
+Most	Most bleaches may be used to whiten the teeth.	character	Bleaches	1
+All	All bleaches may be used to whiten the teeth.	character	Bleaches	1
+Gen	Baboons should be left alone in the wild.	quasidef	Baboons	0
+Few	Few baboons should be left alone in the wild.	quasidef	Baboons	1
+Some	Some baboons should be left alone in the wild.	quasidef	Baboons	1
+Many	Many baboons should be left alone in the wild.	quasidef	Baboons	1
+Most	Most baboons should be left alone in the wild.	quasidef	Baboons	1
+All	All baboons should be left alone in the wild.	quasidef	Baboons	1
+Gen	Air pollutions are caused by burning fossil fuels.	quasidef	Air pollutions	1
+Few	Few air pollutions are caused by burning fossil fuels.	quasidef	Air pollutions	2
+Some	Some air pollutions are caused by burning fossil fuels.	quasidef	Air pollutions	2
+Many	Many air pollutions are caused by burning fossil fuels.	quasidef	Air pollutions	2
+Most	Most air pollutions are caused by burning fossil fuels.	quasidef	Air pollutions	2
+All	All air pollutions are caused by burning fossil fuels.	quasidef	Air pollutions	2
+Gen	Wild turkeys may be killed for their feathers.	character	Wild turkeys	1
+Few	Few wild turkeys may be killed for their feathers.	character	Wild turkeys	2
+Some	Some wild turkeys may be killed for their feathers.	character	Wild turkeys	2
+Many	Many wild turkeys may be killed for their feathers.	character	Wild turkeys	2
+Most	Most wild turkeys may be killed for their feathers.	character	Wild turkeys	2
+All	All wild turkeys may be killed for their feathers.	character	Wild turkeys	2
+Gen	Wild pigs are a nuisance.	character	Wild pigs	1
+Few	Few wild pigs are a nuisance.	character	Wild pigs	2
+Some	Some wild pigs are a nuisance.	character	Wild pigs	2
+Many	Many wild pigs are a nuisance.	character	Wild pigs	2
+Most	Most wild pigs are a nuisance.	character	Wild pigs	2
+All	All wild pigs are a nuisance.	character	Wild pigs	2
+Gen	Water heaters can be used to heat water in the kitchen.	character	Water heaters	1
+Few	Few water heaters can be used to heat water in the kitchen.	character	Water heaters	2
+Some	Some water heaters can be used to heat water in the kitchen.	character	Water heaters	2
+Many	Many water heaters can be used to heat water in the kitchen.	character	Water heaters	2
+Most	Most water heaters can be used to heat water in the kitchen.	character	Water heaters	2
+All	All water heaters can be used to heat water in the kitchen.	character	Water heaters	2
+Gen	Water heaters are used to heat water to a certain temperature.	invirtue	Water heaters	1
+Few	Few water heaters are used to heat water to a certain temperature.	invirtue	Water heaters	2
+Some	Some water heaters are used to heat water to a certain temperature.	invirtue	Water heaters	2
+Many	Many water heaters are used to heat water to a certain temperature.	invirtue	Water heaters	2
+Most	Most water heaters are used to heat water to a certain temperature.	invirtue	Water heaters	2
+All	All water heaters are used to heat water to a certain temperature.	invirtue	Water heaters	2
+Gen	Water heaters are used to heat water in the kitchen.	invirtue	Water heaters	1
+Few	Few water heaters are used to heat water in the kitchen.	invirtue	Water heaters	2
+Some	Some water heaters are used to heat water in the kitchen.	invirtue	Water heaters	2
+Many	Many water heaters are used to heat water in the kitchen.	invirtue	Water heaters	2
+Most	Most water heaters are used to heat water in the kitchen.	invirtue	Water heaters	2
+All	All water heaters are used to heat water in the kitchen.	invirtue	Water heaters	2
+Gen	Water heaters are equipped with a thermostat.	character	Water heaters	1
+Few	Few water heaters are equipped with a thermostat.	character	Water heaters	2
+Some	Some water heaters are equipped with a thermostat.	character	Water heaters	2
+Many	Many water heaters are equipped with a thermostat.	character	Water heaters	2
+Most	Most water heaters are equipped with a thermostat.	character	Water heaters	2
+All	All water heaters are equipped with a thermostat.	character	Water heaters	2
+Gen	Wall fans have a fan blade attached to them.	quasidef	Wall fans	1
+Few	Few wall fans have a fan blade attached to them.	quasidef	Wall fans	2
+Some	Some wall fans have a fan blade attached to them.	quasidef	Wall fans	2
+Many	Many wall fans have a fan blade attached to them.	quasidef	Wall fans	2
+Most	Most wall fans have a fan blade attached to them.	quasidef	Wall fans	2
+All	All wall fans have a fan blade attached to them.	quasidef	Wall fans	2
+Gen	Swamps may have many different types of plants.	invirtue	Swamps	0
+Few	Few swamps may have many different types of plants.	invirtue	Swamps	1
+Some	Some swamps may have many different types of plants.	invirtue	Swamps	1
+Many	Many swamps may have many different types of plants.	invirtue	Swamps	1
+Most	Most swamps may have many different types of plants.	invirtue	Swamps	1
+All	All swamps may have many different types of plants.	invirtue	Swamps	1
+Gen	Strawberries have a sweet flavor.	character	Strawberries	0
+Few	Few strawberries have a sweet flavor.	character	Strawberries	1
+Some	Some strawberries have a sweet flavor.	character	Strawberries	1
+Many	Many strawberries have a sweet flavor.	character	Strawberries	1
+Most	Most strawberries have a sweet flavor.	character	Strawberries	1
+All	All strawberries have a sweet flavor.	character	Strawberries	1
+Gen	Stairs are used to ascend.	invirtue	Stairs	0
+Few	Few stairs are used to ascend.	invirtue	Stairs	1
+Some	Some stairs are used to ascend.	invirtue	Stairs	1
+Many	Many stairs are used to ascend.	invirtue	Stairs	1
+Most	Most stairs are used to ascend.	invirtue	Stairs	1
+All	All stairs are used to ascend.	invirtue	Stairs	1
+Gen	Spider mites can be controlled.	character	Spider mites	1
+Few	Few spider mites can be controlled.	character	Spider mites	2
+Some	Some spider mites can be controlled.	character	Spider mites	2
+Many	Many spider mites can be controlled.	character	Spider mites	2
+Most	Most spider mites can be controlled.	character	Spider mites	2
+All	All spider mites can be controlled.	character	Spider mites	2
+Gen	Sparrows can be found in open areas.	character	Sparrows	0
+Few	Few sparrows can be found in open areas.	character	Sparrows	1
+Some	Some sparrows can be found in open areas.	character	Sparrows	1
+Many	Many sparrows can be found in open areas.	character	Sparrows	1
+Most	Most sparrows can be found in open areas.	character	Sparrows	1
+All	All sparrows can be found in open areas.	character	Sparrows	1
+Gen	Slates may be placed on the floor, table, counter, etc.	character	Slates	0
+Few	Few slates may be placed on the floor, table, counter, etc.	character	Slates	1
+Some	Some slates may be placed on the floor, table, counter, etc.	character	Slates	1
+Many	Many slates may be placed on the floor, table, counter, etc.	character	Slates	1
+Most	Most slates may be placed on the floor, table, counter, etc.	character	Slates	1
+All	All slates may be placed on the floor, table, counter, etc.	character	Slates	1
+Gen	Skunks produce an odor.	quasidef	Skunks	0
+Few	Few skunks produce an odor.	quasidef	Skunks	1
+Some	Some skunks produce an odor.	quasidef	Skunks	1
+Many	Many skunks produce an odor.	quasidef	Skunks	1
+Most	Most skunks produce an odor.	quasidef	Skunks	1
+All	All skunks produce an odor.	quasidef	Skunks	1
+Gen	Sea snails have a hard shell, which protects them from predators.	quasidef	Sea snails	1
+Few	Few sea snails have a hard shell, which protects them from predators.	quasidef	Sea snails	2
+Some	Some sea snails have a hard shell, which protects them from predators.	quasidef	Sea snails	2
+Many	Many sea snails have a hard shell, which protects them from predators.	quasidef	Sea snails	2
+Most	Most sea snails have a hard shell, which protects them from predators.	quasidef	Sea snails	2
+All	All sea snails have a hard shell, which protects them from predators.	quasidef	Sea snails	2
+Gen	Scenes may be set in the past, present, future.	invirtue	Scenes	0
+Few	Few scenes may be set in the past, present, future.	invirtue	Scenes	1
+Some	Some scenes may be set in the past, present, future.	invirtue	Scenes	1
+Many	Many scenes may be set in the past, present, future.	invirtue	Scenes	1
+Most	Most scenes may be set in the past, present, future.	invirtue	Scenes	1
+All	All scenes may be set in the past, present, future.	invirtue	Scenes	1
+Gen	Scenes are shot with a camera.	invirtue	Scenes	0
+Few	Few scenes are shot with a camera.	invirtue	Scenes	1
+Some	Some scenes are shot with a camera.	invirtue	Scenes	1
+Many	Many scenes are shot with a camera.	invirtue	Scenes	1
+Most	Most scenes are shot with a camera.	invirtue	Scenes	1
+All	All scenes are shot with a camera.	invirtue	Scenes	1
+Gen	Remote controls may have buttons, switches, or dials.	quasidef	Remote controls	1
+Few	Few remote controls may have buttons, switches, or dials.	quasidef	Remote controls	2
+Some	Some remote controls may have buttons, switches, or dials.	quasidef	Remote controls	2
+Many	Many remote controls may have buttons, switches, or dials.	quasidef	Remote controls	2
+Most	Most remote controls may have buttons, switches, or dials.	quasidef	Remote controls	2
+All	All remote controls may have buttons, switches, or dials.	quasidef	Remote controls	2
+Gen	Radiators are designed to dissipate heat away from the system.	quasidef	Radiators	0
+Few	Few radiators are designed to dissipate heat away from the system.	quasidef	Radiators	1
+Some	Some radiators are designed to dissipate heat away from the system.	quasidef	Radiators	1
+Many	Many radiators are designed to dissipate heat away from the system.	quasidef	Radiators	1
+Most	Most radiators are designed to dissipate heat away from the system.	quasidef	Radiators	1
+All	All radiators are designed to dissipate heat away from the system.	quasidef	Radiators	1
+Gen	Quakes produce seismic waves.	quasidef	Quakes	0
+Few	Few quakes produce seismic waves.	quasidef	Quakes	1
+Some	Some quakes produce seismic waves.	quasidef	Quakes	1
+Many	Many quakes produce seismic waves.	quasidef	Quakes	1
+Most	Most quakes produce seismic waves.	quasidef	Quakes	1
+All	All quakes produce seismic waves.	quasidef	Quakes	1
+Gen	Pressure cookers may be used in the kitchen.	quasidef	Pressure cookers	1
+Few	Few pressure cookers may be used in the kitchen.	quasidef	Pressure cookers	2
+Some	Some pressure cookers may be used in the kitchen.	quasidef	Pressure cookers	2
+Many	Many pressure cookers may be used in the kitchen.	quasidef	Pressure cookers	2
+Most	Most pressure cookers may be used in the kitchen.	quasidef	Pressure cookers	2
+All	All pressure cookers may be used in the kitchen.	quasidef	Pressure cookers	2
+Gen	Pressure cookers may be set to high.	character	Pressure cookers	1
+Few	Few pressure cookers may be set to high.	character	Pressure cookers	2
+Some	Some pressure cookers may be set to high.	character	Pressure cookers	2
+Many	Many pressure cookers may be set to high.	character	Pressure cookers	2
+Most	Most pressure cookers may be set to high.	character	Pressure cookers	2
+All	All pressure cookers may be set to high.	character	Pressure cookers	2
+Gen	Pressure cookers have a maximum temperature range.	invirtue	Pressure cookers	1
+Few	Few pressure cookers have a maximum temperature range.	invirtue	Pressure cookers	2
+Some	Some pressure cookers have a maximum temperature range.	invirtue	Pressure cookers	2
+Many	Many pressure cookers have a maximum temperature range.	invirtue	Pressure cookers	2
+Most	Most pressure cookers have a maximum temperature range.	invirtue	Pressure cookers	2
+All	All pressure cookers have a maximum temperature range.	invirtue	Pressure cookers	2
+Gen	Pressure cookers are used for cooking.	quasidef	Pressure cookers	1
+Few	Few pressure cookers are used for cooking.	quasidef	Pressure cookers	2
+Some	Some pressure cookers are used for cooking.	quasidef	Pressure cookers	2
+Many	Many pressure cookers are used for cooking.	quasidef	Pressure cookers	2
+Most	Most pressure cookers are used for cooking.	quasidef	Pressure cookers	2
+All	All pressure cookers are used for cooking.	quasidef	Pressure cookers	2
+Gen	Platelets may be isolated from the blood.	character	Platelets	0
+Few	Few platelets may be isolated from the blood.	character	Platelets	1
+Some	Some platelets may be isolated from the blood.	character	Platelets	1
+Many	Many platelets may be isolated from the blood.	character	Platelets	1
+Most	Most platelets may be isolated from the blood.	character	Platelets	1
+All	All platelets may be isolated from the blood.	character	Platelets	1
+Gen	Pecans may have to be peeled before eating them.	invirtue	Pecans	0
+Few	Few pecans may have to be peeled before eating them.	invirtue	Pecans	1
+Some	Some pecans may have to be peeled before eating them.	invirtue	Pecans	1
+Many	Many pecans may have to be peeled before eating them.	invirtue	Pecans	1
+Most	Most pecans may have to be peeled before eating them.	invirtue	Pecans	1
+All	All pecans may have to be peeled before eating them.	invirtue	Pecans	1
+Gen	Pecans may be purchased from a local grocery.	character	Pecans	0
+Few	Few pecans may be purchased from a local grocery.	character	Pecans	1
+Some	Some pecans may be purchased from a local grocery.	character	Pecans	1
+Many	Many pecans may be purchased from a local grocery.	character	Pecans	1
+Most	Most pecans may be purchased from a local grocery.	character	Pecans	1
+All	All pecans may be purchased from a local grocery.	character	Pecans	1
+Gen	Pecans can be used to make a sweet, nutty dessert.	character	Pecans	0
+Few	Few pecans can be used to make a sweet, nutty dessert.	character	Pecans	1
+Some	Some pecans can be used to make a sweet, nutty dessert.	character	Pecans	1
+Many	Many pecans can be used to make a sweet, nutty dessert.	character	Pecans	1
+Most	Most pecans can be used to make a sweet, nutty dessert.	character	Pecans	1
+All	All pecans can be used to make a sweet, nutty dessert.	character	Pecans	1
+Gen	Pecans can be removed from their shells with a knife.	character	Pecans	0
+Few	Few pecans can be removed from their shells with a knife.	character	Pecans	1
+Some	Some pecans can be removed from their shells with a knife.	character	Pecans	1
+Many	Many pecans can be removed from their shells with a knife.	character	Pecans	1
+Most	Most pecans can be removed from their shells with a knife.	character	Pecans	1
+All	All pecans can be removed from their shells with a knife.	character	Pecans	1
+Gen	Paper clips are used to hold paper in place.	invirtue	Paper clips	1
+Few	Few paper clips are used to hold paper in place.	invirtue	Paper clips	2
+Some	Some paper clips are used to hold paper in place.	invirtue	Paper clips	2
+Many	Many paper clips are used to hold paper in place.	invirtue	Paper clips	2
+Most	Most paper clips are used to hold paper in place.	invirtue	Paper clips	2
+All	All paper clips are used to hold paper in place.	invirtue	Paper clips	2
+Gen	Owls should be left alone.	character	Owls	0
+Few	Few owls should be left alone.	character	Owls	1
+Some	Some owls should be left alone.	character	Owls	1
+Many	Many owls should be left alone.	character	Owls	1
+Most	Most owls should be left alone.	character	Owls	1
+All	All owls should be left alone.	character	Owls	1
+Gen	Music groups are able to get their music played on the radio.	invirtue	Music groups	1
+Few	Few music groups are able to get their music played on the radio.	invirtue	Music groups	2
+Some	Some music groups are able to get their music played on the radio.	invirtue	Music groups	2
+Many	Many music groups are able to get their music played on the radio.	invirtue	Music groups	2
+Most	Most music groups are able to get their music played on the radio.	invirtue	Music groups	2
+All	All music groups are able to get their music played on the radio.	invirtue	Music groups	2
+Gen	Mud flaps can be affixed to a vehicle to provide additional protection from road debris.	quasidef	Mud flaps	1
+Few	Few mud flaps can be affixed to a vehicle to provide additional protection from road debris.	quasidef	Mud flaps	2
+Some	Some mud flaps can be affixed to a vehicle to provide additional protection from road debris.	quasidef	Mud flaps	2
+Many	Many mud flaps can be affixed to a vehicle to provide additional protection from road debris.	quasidef	Mud flaps	2
+Most	Most mud flaps can be affixed to a vehicle to provide additional protection from road debris.	quasidef	Mud flaps	2
+All	All mud flaps can be affixed to a vehicle to provide additional protection from road debris.	quasidef	Mud flaps	2
+Gen	Mesh skimmers have been used to steal credit card information from retailers.	quasidef	Mesh skimmers	1
+Few	Few mesh skimmers have been used to steal credit card information from retailers.	quasidef	Mesh skimmers	2
+Some	Some mesh skimmers have been used to steal credit card information from retailers.	quasidef	Mesh skimmers	2
+Many	Many mesh skimmers have been used to steal credit card information from retailers.	quasidef	Mesh skimmers	2
+Most	Most mesh skimmers have been used to steal credit card information from retailers.	quasidef	Mesh skimmers	2
+All	All mesh skimmers have been used to steal credit card information from retailers.	quasidef	Mesh skimmers	2
+Gen	Managements are looking for ways to reduce costs.	character	Managements	0
+Few	Few managements are looking for ways to reduce costs.	character	Managements	1
+Some	Some managements are looking for ways to reduce costs.	character	Managements	1
+Many	Many managements are looking for ways to reduce costs.	character	Managements	1
+Most	Most managements are looking for ways to reduce costs.	character	Managements	1
+All	All managements are looking for ways to reduce costs.	character	Managements	1
+Gen	Lightnings are associated with thunder.	quasidef	Lightnings	0
+Few	Few lightnings are associated with thunder.	quasidef	Lightnings	1
+Some	Some lightnings are associated with thunder.	quasidef	Lightnings	1
+Many	Many lightnings are associated with thunder.	quasidef	Lightnings	1
+Most	Most lightnings are associated with thunder.	quasidef	Lightnings	1
+All	All lightnings are associated with thunder.	quasidef	Lightnings	1
+Gen	License plates are issued to vehicles.	quasidef	License plates	1
+Few	Few license plates are issued to vehicles.	quasidef	License plates	2
+Some	Some license plates are issued to vehicles.	quasidef	License plates	2
+Many	Many license plates are issued to vehicles.	quasidef	License plates	2
+Most	Most license plates are issued to vehicles.	quasidef	License plates	2
+All	All license plates are issued to vehicles.	quasidef	License plates	2
+Gen	Ladles can be found in the kitchen.	invirtue	Ladles	0
+Few	Few ladles can be found in the kitchen.	invirtue	Ladles	1
+Some	Some ladles can be found in the kitchen.	invirtue	Ladles	1
+Many	Many ladles can be found in the kitchen.	invirtue	Ladles	1
+Most	Most ladles can be found in the kitchen.	invirtue	Ladles	1
+All	All ladles can be found in the kitchen.	invirtue	Ladles	1
+Gen	Lactose intolerances have to be diagnosed by a doctor.	character	Lactose intolerances	1
+Few	Few lactose intolerances have to be diagnosed by a doctor.	character	Lactose intolerances	2
+Some	Some lactose intolerances have to be diagnosed by a doctor.	character	Lactose intolerances	2
+Many	Many lactose intolerances have to be diagnosed by a doctor.	character	Lactose intolerances	2
+Most	Most lactose intolerances have to be diagnosed by a doctor.	character	Lactose intolerances	2
+All	All lactose intolerances have to be diagnosed by a doctor.	character	Lactose intolerances	2
+Gen	Insulations are used to insulate a building.	quasidef	Insulations	0
+Few	Few insulations are used to insulate a building.	quasidef	Insulations	1
+Some	Some insulations are used to insulate a building.	quasidef	Insulations	1
+Many	Many insulations are used to insulate a building.	quasidef	Insulations	1
+Most	Most insulations are used to insulate a building.	quasidef	Insulations	1
+All	All insulations are used to insulate a building.	quasidef	Insulations	1
+Gen	Ice creams may have a higher fat content than other desserts.	character	Ice creams	1
+Few	Few ice creams may have a higher fat content than other desserts.	character	Ice creams	2
+Some	Some ice creams may have a higher fat content than other desserts.	character	Ice creams	2
+Many	Many ice creams may have a higher fat content than other desserts.	character	Ice creams	2
+Most	Most ice creams may have a higher fat content than other desserts.	character	Ice creams	2
+All	All ice creams may have a higher fat content than other desserts.	character	Ice creams	2
+Gen	Ice creams are sweetened with sugar.	invirtue	Ice creams	1
+Few	Few ice creams are sweetened with sugar.	invirtue	Ice creams	2
+Some	Some ice creams are sweetened with sugar.	invirtue	Ice creams	2
+Many	Many ice creams are sweetened with sugar.	invirtue	Ice creams	2
+Most	Most ice creams are sweetened with sugar.	invirtue	Ice creams	2
+All	All ice creams are sweetened with sugar.	invirtue	Ice creams	2
+Gen	Human embryos are fertilized by sperm from the father.	quasidef	Human embryos	1
+Few	Few human embryos are fertilized by sperm from the father.	quasidef	Human embryos	2
+Some	Some human embryos are fertilized by sperm from the father.	quasidef	Human embryos	2
+Many	Many human embryos are fertilized by sperm from the father.	quasidef	Human embryos	2
+Most	Most human embryos are fertilized by sperm from the father.	quasidef	Human embryos	2
+All	All human embryos are fertilized by sperm from the father.	quasidef	Human embryos	2
+Gen	Hotel rooms have at least two beds.	character	Hotel rooms	1
+Few	Few hotel rooms have at least two beds.	character	Hotel rooms	2
+Some	Some hotel rooms have at least two beds.	character	Hotel rooms	2
+Many	Many hotel rooms have at least two beds.	character	Hotel rooms	2
+Most	Most hotel rooms have at least two beds.	character	Hotel rooms	2
+All	All hotel rooms have at least two beds.	character	Hotel rooms	2
+Gen	Horses can be trained to do almost anything.	character	Horses	0
+Few	Few horses can be trained to do almost anything.	character	Horses	1
+Some	Some horses can be trained to do almost anything.	character	Horses	1
+Many	Many horses can be trained to do almost anything.	character	Horses	1
+Most	Most horses can be trained to do almost anything.	character	Horses	1
+All	All horses can be trained to do almost anything.	character	Horses	1
+Gen	Horses are bred to be ridden.	quasidef	Horses	0
+Few	Few horses are bred to be ridden.	quasidef	Horses	1
+Some	Some horses are bred to be ridden.	quasidef	Horses	1
+Many	Many horses are bred to be ridden.	quasidef	Horses	1
+Most	Most horses are bred to be ridden.	quasidef	Horses	1
+All	All horses are bred to be ridden.	quasidef	Horses	1
+Gen	Hoes have been used to plow fields.	quasidef	Hoes	0
+Few	Few hoes have been used to plow fields.	quasidef	Hoes	1
+Some	Some hoes have been used to plow fields.	quasidef	Hoes	1
+Many	Many hoes have been used to plow fields.	quasidef	Hoes	1
+Most	Most hoes have been used to plow fields.	quasidef	Hoes	1
+All	All hoes have been used to plow fields.	quasidef	Hoes	1
+Gen	Hoes are used to plow fields or clear snow.	quasidef	Hoes	0
+Few	Few hoes are used to plow fields or clear snow.	quasidef	Hoes	1
+Some	Some hoes are used to plow fields or clear snow.	quasidef	Hoes	1
+Many	Many hoes are used to plow fields or clear snow.	quasidef	Hoes	1
+Most	Most hoes are used to plow fields or clear snow.	quasidef	Hoes	1
+All	All hoes are used to plow fields or clear snow.	quasidef	Hoes	1
+Gen	Hair gels produce a smooth, shiny surface.	character	Hair gels	1
+Few	Few hair gels produce a smooth, shiny surface.	character	Hair gels	2
+Some	Some hair gels produce a smooth, shiny surface.	character	Hair gels	2
+Many	Many hair gels produce a smooth, shiny surface.	character	Hair gels	2
+Most	Most hair gels produce a smooth, shiny surface.	character	Hair gels	2
+All	All hair gels produce a smooth, shiny surface.	character	Hair gels	2
+Gen	Hair clips are attached to the head.	quasidef	Hair clips	1
+Few	Few hair clips are attached to the head.	quasidef	Hair clips	2
+Some	Some hair clips are attached to the head.	quasidef	Hair clips	2
+Many	Many hair clips are attached to the head.	quasidef	Hair clips	2
+Most	Most hair clips are attached to the head.	quasidef	Hair clips	2
+All	All hair clips are attached to the head.	quasidef	Hair clips	2
+Gen	Hair clips are attached to the hair.	quasidef	Hair clips	1
+Few	Few hair clips are attached to the hair.	quasidef	Hair clips	2
+Some	Some hair clips are attached to the hair.	quasidef	Hair clips	2
+Many	Many hair clips are attached to the hair.	quasidef	Hair clips	2
+Most	Most hair clips are attached to the hair.	quasidef	Hair clips	2
+All	All hair clips are attached to the hair.	quasidef	Hair clips	2
+Gen	Guns may be used to commit a crime.	quasidef	Guns	0
+Few	Few guns may be used to commit a crime.	quasidef	Guns	1
+Some	Some guns may be used to commit a crime.	quasidef	Guns	1
+Many	Many guns may be used to commit a crime.	quasidef	Guns	1
+Most	Most guns may be used to commit a crime.	quasidef	Guns	1
+All	All guns may be used to commit a crime.	quasidef	Guns	1
+Gen	Guns can be bought.	character	Guns	0
+Few	Few guns can be bought.	character	Guns	1
+Some	Some guns can be bought.	character	Guns	1
+Many	Many guns can be bought.	character	Guns	1
+Most	Most guns can be bought.	character	Guns	1
+All	All guns can be bought.	character	Guns	1
+Gen	Family pets are predisposed to certain health issues.	character	Family pets	1
+Few	Few family pets are predisposed to certain health issues.	character	Family pets	2
+Some	Some family pets are predisposed to certain health issues.	character	Family pets	2
+Many	Many family pets are predisposed to certain health issues.	character	Family pets	2
+Most	Most family pets are predisposed to certain health issues.	character	Family pets	2
+All	All family pets are predisposed to certain health issues.	character	Family pets	2
+Gen	Dvd players are connected to a television via hdmi.	invirtue	Dvd players	1
+Few	Few dvd players are connected to a television via hdmi.	invirtue	Dvd players	2
+Some	Some dvd players are connected to a television via hdmi.	invirtue	Dvd players	2
+Many	Many dvd players are connected to a television via hdmi.	invirtue	Dvd players	2
+Most	Most dvd players are connected to a television via hdmi.	invirtue	Dvd players	2
+All	All dvd players are connected to a television via hdmi.	invirtue	Dvd players	2
+Gen	Drummers are taught to play with their hands.	character	Drummers	0
+Few	Few drummers are taught to play with their hands.	character	Drummers	1
+Some	Some drummers are taught to play with their hands.	character	Drummers	1
+Many	Many drummers are taught to play with their hands.	character	Drummers	1
+Most	Most drummers are taught to play with their hands.	character	Drummers	1
+All	All drummers are taught to play with their hands.	character	Drummers	1
+Gen	Cudgels can be made of metal, wood, or other materials.	invirtue	Cudgels	0
+Few	Few cudgels can be made of metal, wood, or other materials.	invirtue	Cudgels	1
+Some	Some cudgels can be made of metal, wood, or other materials.	invirtue	Cudgels	1
+Many	Many cudgels can be made of metal, wood, or other materials.	invirtue	Cudgels	1
+Most	Most cudgels can be made of metal, wood, or other materials.	invirtue	Cudgels	1
+All	All cudgels can be made of metal, wood, or other materials.	invirtue	Cudgels	1
+Gen	Corrections are given to inmates who have committed serious crimes, including murder.	quasidef	Corrections	0
+Few	Few corrections are given to inmates who have committed serious crimes, including murder.	quasidef	Corrections	1
+Some	Some corrections are given to inmates who have committed serious crimes, including murder.	quasidef	Corrections	1
+Many	Many corrections are given to inmates who have committed serious crimes, including murder.	quasidef	Corrections	1
+Most	Most corrections are given to inmates who have committed serious crimes, including murder.	quasidef	Corrections	1
+All	All corrections are given to inmates who have committed serious crimes, including murder.	quasidef	Corrections	1
+Gen	Cold storages are stored in the freezer.	character	Cold storages	1
+Few	Few cold storages are stored in the freezer.	character	Cold storages	2
+Some	Some cold storages are stored in the freezer.	character	Cold storages	2
+Many	Many cold storages are stored in the freezer.	character	Cold storages	2
+Most	Most cold storages are stored in the freezer.	character	Cold storages	2
+All	All cold storages are stored in the freezer.	character	Cold storages	2
+Gen	Coincidences may be attributed to chance.	quasidef	Coincidences	0
+Few	Few coincidences may be attributed to chance.	quasidef	Coincidences	1
+Some	Some coincidences may be attributed to chance.	quasidef	Coincidences	1
+Many	Many coincidences may be attributed to chance.	quasidef	Coincidences	1
+Most	Most coincidences may be attributed to chance.	quasidef	Coincidences	1
+All	All coincidences may be attributed to chance.	quasidef	Coincidences	1
+Gen	Coasters are made of wood.	character	Coasters	0
+Few	Few coasters are made of wood.	character	Coasters	1
+Some	Some coasters are made of wood.	character	Coasters	1
+Many	Many coasters are made of wood.	character	Coasters	1
+Most	Most coasters are made of wood.	character	Coasters	1
+All	All coasters are made of wood.	character	Coasters	1
+Gen	Clothes dryers have a thermostat, which controls how hot your clothes get.	invirtue	Clothes	0
+Few	Few clothes dryers have a thermostat, which controls how hot your clothes get.	invirtue	Clothes	1
+Some	Some clothes dryers have a thermostat, which controls how hot your clothes get.	invirtue	Clothes	1
+Many	Many clothes dryers have a thermostat, which controls how hot your clothes get.	invirtue	Clothes	1
+Most	Most clothes dryers have a thermostat, which controls how hot your clothes get.	invirtue	Clothes	1
+All	All clothes dryers have a thermostat, which controls how hot your clothes get.	invirtue	Clothes	1
+Gen	Clocks are set to the local timezone.	quasidef	Clocks	0
+Few	Few clocks are set to the local timezone.	quasidef	Clocks	1
+Some	Some clocks are set to the local timezone.	quasidef	Clocks	1
+Many	Many clocks are set to the local timezone.	quasidef	Clocks	1
+Most	Most clocks are set to the local timezone.	quasidef	Clocks	1
+All	All clocks are set to the local timezone.	quasidef	Clocks	1
+Gen	Cakes may have several layers.	character	Cakes	0
+Few	Few cakes may have several layers.	character	Cakes	1
+Some	Some cakes may have several layers.	character	Cakes	1
+Many	Many cakes may have several layers.	character	Cakes	1
+Most	Most cakes may have several layers.	character	Cakes	1
+All	All cakes may have several layers.	character	Cakes	1
+Gen	Cakes are made with a mix.	character	Cakes	0
+Few	Few cakes are made with a mix.	character	Cakes	1
+Some	Some cakes are made with a mix.	character	Cakes	1
+Many	Many cakes are made with a mix.	character	Cakes	1
+Most	Most cakes are made with a mix.	character	Cakes	1
+All	All cakes are made with a mix.	character	Cakes	1
+Gen	Bulldozers have been used to clear the land.	invirtue	Bulldozers	0
+Few	Few bulldozers have been used to clear the land.	invirtue	Bulldozers	1
+Some	Some bulldozers have been used to clear the land.	invirtue	Bulldozers	1
+Many	Many bulldozers have been used to clear the land.	invirtue	Bulldozers	1
+Most	Most bulldozers have been used to clear the land.	invirtue	Bulldozers	1
+All	All bulldozers have been used to clear the land.	invirtue	Bulldozers	1
+Gen	Bows may have a string attached.	invirtue	Bows	0
+Few	Few bows may have a string attached.	invirtue	Bows	1
+Some	Some bows may have a string attached.	invirtue	Bows	1
+Many	Many bows may have a string attached.	invirtue	Bows	1
+Most	Most bows may have a string attached.	invirtue	Bows	1
+All	All bows may have a string attached.	invirtue	Bows	1
+Gen	Bobsleighs are used for the olympic games.	invirtue	Bobsleighs	0
+Few	Few bobsleighs are used for the olympic games.	invirtue	Bobsleighs	1
+Some	Some bobsleighs are used for the olympic games.	invirtue	Bobsleighs	1
+Many	Many bobsleighs are used for the olympic games.	invirtue	Bobsleighs	1
+Most	Most bobsleighs are used for the olympic games.	invirtue	Bobsleighs	1
+All	All bobsleighs are used for the olympic games.	invirtue	Bobsleighs	1
+Gen	Bleaches may have adverse effects on the skin.	character	Bleaches	0
+Few	Few bleaches may have adverse effects on the skin.	character	Bleaches	1
+Some	Some bleaches may have adverse effects on the skin.	character	Bleaches	1
+Many	Many bleaches may have adverse effects on the skin.	character	Bleaches	1
+Most	Most bleaches may have adverse effects on the skin.	character	Bleaches	1
+All	All bleaches may have adverse effects on the skin.	character	Bleaches	1
+Gen	Bay leaves are used to flavor soups, stews, or sauces.	quasidef	Bay leaves	1
+Few	Few bay leaves are used to flavor soups, stews, or sauces.	quasidef	Bay leaves	2
+Some	Some bay leaves are used to flavor soups, stews, or sauces.	quasidef	Bay leaves	2
+Many	Many bay leaves are used to flavor soups, stews, or sauces.	quasidef	Bay leaves	2
+Most	Most bay leaves are used to flavor soups, stews, or sauces.	quasidef	Bay leaves	2
+All	All bay leaves are used to flavor soups, stews, or sauces.	quasidef	Bay leaves	2
+Gen	Backhoes can be used to dig trenches, but it is also possible to use them to remove debris.	quasidef	Backhoes	0
+Few	Few backhoes can be used to dig trenches, but it is also possible to use them to remove debris.	quasidef	Backhoes	1
+Some	Some backhoes can be used to dig trenches, but it is also possible to use them to remove debris.	quasidef	Backhoes	1
+Many	Many backhoes can be used to dig trenches, but it is also possible to use them to remove debris.	quasidef	Backhoes	1
+Most	Most backhoes can be used to dig trenches, but it is also possible to use them to remove debris.	quasidef	Backhoes	1
+All	All backhoes can be used to dig trenches, but it is also possible to use them to remove debris.	quasidef	Backhoes	1
+Gen	Backhoes can be used to dig a hole.	quasidef	Backhoes	0
+Few	Few backhoes can be used to dig a hole.	quasidef	Backhoes	1
+Some	Some backhoes can be used to dig a hole.	quasidef	Backhoes	1
+Many	Many backhoes can be used to dig a hole.	quasidef	Backhoes	1
+Most	Most backhoes can be used to dig a hole.	quasidef	Backhoes	1
+All	All backhoes can be used to dig a hole.	quasidef	Backhoes	1
+Gen	Apples are used to make cider, which is an alcoholic beverage.	invirtue	Apples	0
+Few	Few apples are used to make cider, which is an alcoholic beverage.	invirtue	Apples	1
+Some	Some apples are used to make cider, which is an alcoholic beverage.	invirtue	Apples	1
+Many	Many apples are used to make cider, which is an alcoholic beverage.	invirtue	Apples	1
+Most	Most apples are used to make cider, which is an alcoholic beverage.	invirtue	Apples	1
+All	All apples are used to make cider, which is an alcoholic beverage.	invirtue	Apples	1
+Gen	Ambulances may have to make multiple trips to the scene.	character	Ambulances	0
+Few	Few ambulances may have to make multiple trips to the scene.	character	Ambulances	1
+Some	Some ambulances may have to make multiple trips to the scene.	character	Ambulances	1
+Many	Many ambulances may have to make multiple trips to the scene.	character	Ambulances	1
+Most	Most ambulances may have to make multiple trips to the scene.	character	Ambulances	1
+All	All ambulances may have to make multiple trips to the scene.	character	Ambulances	1
+Gen	Ambulances can only take patients to the nearest hospital.	character	Ambulances	0
+Few	Few ambulances can only take patients to the nearest hospital.	character	Ambulances	1
+Some	Some ambulances can only take patients to the nearest hospital.	character	Ambulances	1
+Many	Many ambulances can only take patients to the nearest hospital.	character	Ambulances	1
+Most	Most ambulances can only take patients to the nearest hospital.	character	Ambulances	1
+All	All ambulances can only take patients to the nearest hospital.	character	Ambulances	1
+Gen	Abbeys have their own chapel.	quasidef	Abbeys	0
+Few	Few abbeys have their own chapel.	quasidef	Abbeys	1
+Some	Some abbeys have their own chapel.	quasidef	Abbeys	1
+Many	Many abbeys have their own chapel.	quasidef	Abbeys	1
+Most	Most abbeys have their own chapel.	quasidef	Abbeys	1
+All	All abbeys have their own chapel.	quasidef	Abbeys	1
+Gen	Stomachs are an important part of the body.	quasidef	Stomachs	0
+Few	Few stomachs are an important part of the body.	quasidef	Stomachs	1
+Some	Some stomachs are an important part of the body.	quasidef	Stomachs	1
+Many	Many stomachs are an important part of the body.	quasidef	Stomachs	1
+Most	Most stomachs are an important part of the body.	quasidef	Stomachs	1
+All	All stomachs are an important part of the body.	quasidef	Stomachs	1
+Gen	Stimulants can be used to treat adhd.	character	Stimulants	0
+Few	Few stimulants can be used to treat adhd.	character	Stimulants	1
+Some	Some stimulants can be used to treat adhd.	character	Stimulants	1
+Many	Many stimulants can be used to treat adhd.	character	Stimulants	1
+Most	Most stimulants can be used to treat adhd.	character	Stimulants	1
+All	All stimulants can be used to treat adhd.	character	Stimulants	1
+Gen	Spaceships can be used to travel through space.	quasidef	Spaceships	0
+Few	Few spaceships can be used to travel through space.	quasidef	Spaceships	1
+Some	Some spaceships can be used to travel through space.	quasidef	Spaceships	1
+Many	Many spaceships can be used to travel through space.	quasidef	Spaceships	1
+Most	Most spaceships can be used to travel through space.	quasidef	Spaceships	1
+All	All spaceships can be used to travel through space.	quasidef	Spaceships	1
+Gen	Screws have a tendency to loosen.	character	Screws	0
+Few	Few screws have a tendency to loosen.	character	Screws	1
+Some	Some screws have a tendency to loosen.	character	Screws	1
+Many	Many screws have a tendency to loosen.	character	Screws	1
+Most	Most screws have a tendency to loosen.	character	Screws	1
+All	All screws have a tendency to loosen.	character	Screws	1
+Gen	Remote controls may be used to adjust the volume, play, pause, next track, previous track, skip forward/back	character	Remote controls	1
+Few	Few remote controls may be used to adjust the volume, play, pause, next track, previous track, skip forward/back	character	Remote controls	2
+Some	Some remote controls may be used to adjust the volume, play, pause, next track, previous track, skip forward/back	character	Remote controls	2
+Many	Many remote controls may be used to adjust the volume, play, pause, next track, previous track, skip forward/back	character	Remote controls	2
+Most	Most remote controls may be used to adjust the volume, play, pause, next track, previous track, skip forward/back	character	Remote controls	2
+All	All remote controls may be used to adjust the volume, play, pause, next track, previous track, skip forward/back	character	Remote controls	2
+Gen	Pressure cookers are a great way to cook large batches.	character	Pressure cookers	1
+Few	Few pressure cookers are a great way to cook large batches.	character	Pressure cookers	2
+Some	Some pressure cookers are a great way to cook large batches.	character	Pressure cookers	2
+Many	Many pressure cookers are a great way to cook large batches.	character	Pressure cookers	2
+Most	Most pressure cookers are a great way to cook large batches.	character	Pressure cookers	2
+All	All pressure cookers are a great way to cook large batches.	character	Pressure cookers	2
+Gen	Pine trees are an important part of the natural environment.	quasidef	Pine trees	1
+Few	Few pine trees are an important part of the natural environment.	quasidef	Pine trees	2
+Some	Some pine trees are an important part of the natural environment.	quasidef	Pine trees	2
+Many	Many pine trees are an important part of the natural environment.	quasidef	Pine trees	2
+Most	Most pine trees are an important part of the natural environment.	quasidef	Pine trees	2
+All	All pine trees are an important part of the natural environment.	quasidef	Pine trees	2
+Gen	Inflammatory diseases may have multiple causes.	invirtue	Inflammatory diseases	1
+Few	Few inflammatory diseases may have multiple causes.	invirtue	Inflammatory diseases	2
+Some	Some inflammatory diseases may have multiple causes.	invirtue	Inflammatory diseases	2
+Many	Many inflammatory diseases may have multiple causes.	invirtue	Inflammatory diseases	2
+Most	Most inflammatory diseases may have multiple causes.	invirtue	Inflammatory diseases	2
+All	All inflammatory diseases may have multiple causes.	invirtue	Inflammatory diseases	2
+Gen	Inflammatory diseases may be caused by an imbalance of the immune system.	quasidef	Inflammatory diseases	1
+Few	Few inflammatory diseases may be caused by an imbalance of the immune system.	quasidef	Inflammatory diseases	2
+Some	Some inflammatory diseases may be caused by an imbalance of the immune system.	quasidef	Inflammatory diseases	2
+Many	Many inflammatory diseases may be caused by an imbalance of the immune system.	quasidef	Inflammatory diseases	2
+Most	Most inflammatory diseases may be caused by an imbalance of the immune system.	quasidef	Inflammatory diseases	2
+All	All inflammatory diseases may be caused by an imbalance of the immune system.	quasidef	Inflammatory diseases	2
+Gen	Zebras may be seen in the wild.	invirtue	Zebras	0
+Few	Few zebras may be seen in the wild.	invirtue	Zebras	1
+Some	Some zebras may be seen in the wild.	invirtue	Zebras	1
+Many	Many zebras may be seen in the wild.	invirtue	Zebras	1
+Most	Most zebras may be seen in the wild.	invirtue	Zebras	1
+All	All zebras may be seen in the wild.	invirtue	Zebras	1
+Gen	X-rays have been used to diagnose cancer in the past.	character	X-rays	0
+Few	Few x-rays have been used to diagnose cancer in the past.	character	X-rays	1
+Some	Some x-rays have been used to diagnose cancer in the past.	character	X-rays	1
+Many	Many x-rays have been used to diagnose cancer in the past.	character	X-rays	1
+Most	Most x-rays have been used to diagnose cancer in the past.	character	X-rays	1
+All	All x-rays have been used to diagnose cancer in the past.	character	X-rays	1
+Gen	Water parks may be closed due to inclement weather or other unforeseen circumstances.	invirtue	Water parks	1
+Few	Few water parks may be closed due to inclement weather or other unforeseen circumstances.	invirtue	Water parks	2
+Some	Some water parks may be closed due to inclement weather or other unforeseen circumstances.	invirtue	Water parks	2
+Many	Many water parks may be closed due to inclement weather or other unforeseen circumstances.	invirtue	Water parks	2
+Most	Most water parks may be closed due to inclement weather or other unforeseen circumstances.	invirtue	Water parks	2
+All	All water parks may be closed due to inclement weather or other unforeseen circumstances.	invirtue	Water parks	2
+Gen	Telephone books have lists of people.	quasidef	Telephone books	1
+Few	Few telephone books have lists of people.	quasidef	Telephone books	2
+Some	Some telephone books have lists of people.	quasidef	Telephone books	2
+Many	Many telephone books have lists of people.	quasidef	Telephone books	2
+Most	Most telephone books have lists of people.	quasidef	Telephone books	2
+All	All telephone books have lists of people.	quasidef	Telephone books	2
+Gen	Technologies are developed to address specific problems.	quasidef	Technologies	0
+Few	Few technologies are developed to address specific problems.	quasidef	Technologies	1
+Some	Some technologies are developed to address specific problems.	quasidef	Technologies	1
+Many	Many technologies are developed to address specific problems.	quasidef	Technologies	1
+Most	Most technologies are developed to address specific problems.	quasidef	Technologies	1
+All	All technologies are developed to address specific problems.	quasidef	Technologies	1
+Gen	Technologies are designed to be used for a specific purpose.	quasidef	Technologies	0
+Few	Few technologies are designed to be used for a specific purpose.	quasidef	Technologies	1
+Some	Some technologies are designed to be used for a specific purpose.	quasidef	Technologies	1
+Many	Many technologies are designed to be used for a specific purpose.	quasidef	Technologies	1
+Most	Most technologies are designed to be used for a specific purpose.	quasidef	Technologies	1
+All	All technologies are designed to be used for a specific purpose.	quasidef	Technologies	1
+Gen	Tank tops are a great way to keep cool.	quasidef	Tank tops	1
+Few	Few tank tops are a great way to keep cool.	quasidef	Tank tops	2
+Some	Some tank tops are a great way to keep cool.	quasidef	Tank tops	2
+Many	Many tank tops are a great way to keep cool.	quasidef	Tank tops	2
+Most	Most tank tops are a great way to keep cool.	quasidef	Tank tops	2
+All	All tank tops are a great way to keep cool.	quasidef	Tank tops	2
+Gen	Suitcases are used to transport goods from one location to another.	quasidef	Suitcases	0
+Few	Few suitcases are used to transport goods from one location to another.	quasidef	Suitcases	1
+Some	Some suitcases are used to transport goods from one location to another.	quasidef	Suitcases	1
+Many	Many suitcases are used to transport goods from one location to another.	quasidef	Suitcases	1
+Most	Most suitcases are used to transport goods from one location to another.	quasidef	Suitcases	1
+All	All suitcases are used to transport goods from one location to another.	quasidef	Suitcases	1
+Gen	Strawberries have a mild flavor.	character	Strawberries	0
+Few	Few strawberries have a mild flavor.	character	Strawberries	1
+Some	Some strawberries have a mild flavor.	character	Strawberries	1
+Many	Many strawberries have a mild flavor.	character	Strawberries	1
+Most	Most strawberries have a mild flavor.	character	Strawberries	1
+All	All strawberries have a mild flavor.	character	Strawberries	1
+Gen	Stocks can be expected to go up.	character	Stocks	0
+Few	Few stocks can be expected to go up.	character	Stocks	1
+Some	Some stocks can be expected to go up.	character	Stocks	1
+Many	Many stocks can be expected to go up.	character	Stocks	1
+Most	Most stocks can be expected to go up.	character	Stocks	1
+All	All stocks can be expected to go up.	character	Stocks	1
+Gen	Stimulants are used to treat adhd.	invirtue	Stimulants	0
+Few	Few stimulants are used to treat adhd.	invirtue	Stimulants	1
+Some	Some stimulants are used to treat adhd.	invirtue	Stimulants	1
+Many	Many stimulants are used to treat adhd.	invirtue	Stimulants	1
+Most	Most stimulants are used to treat adhd.	invirtue	Stimulants	1
+All	All stimulants are used to treat adhd.	invirtue	Stimulants	1
+Gen	Shoeboxes can be considered to be a good way to store items.	quasidef	Shoeboxes	0
+Few	Few shoeboxes can be considered to be a good way to store items.	quasidef	Shoeboxes	1
+Some	Some shoeboxes can be considered to be a good way to store items.	quasidef	Shoeboxes	1
+Many	Many shoeboxes can be considered to be a good way to store items.	quasidef	Shoeboxes	1
+Most	Most shoeboxes can be considered to be a good way to store items.	quasidef	Shoeboxes	1
+All	All shoeboxes can be considered to be a good way to store items.	quasidef	Shoeboxes	1
+Gen	Screws are used to fasten two pieces of metal together.	invirtue	Screws	0
+Few	Few screws are used to fasten two pieces of metal together.	invirtue	Screws	1
+Some	Some screws are used to fasten two pieces of metal together.	invirtue	Screws	1
+Many	Many screws are used to fasten two pieces of metal together.	invirtue	Screws	1
+Most	Most screws are used to fasten two pieces of metal together.	invirtue	Screws	1
+All	All screws are used to fasten two pieces of metal together.	invirtue	Screws	1
+Gen	Scenes have to be shot in a certain way.	character	Scenes	0
+Few	Few scenes have to be shot in a certain way.	character	Scenes	1
+Some	Some scenes have to be shot in a certain way.	character	Scenes	1
+Many	Many scenes have to be shot in a certain way.	character	Scenes	1
+Most	Most scenes have to be shot in a certain way.	character	Scenes	1
+All	All scenes have to be shot in a certain way.	character	Scenes	1
+Gen	Sand dollars have been known to be found on the beaches.	quasidef	Sand dollars	1
+Few	Few sand dollars have been known to be found on the beaches.	quasidef	Sand dollars	2
+Some	Some sand dollars have been known to be found on the beaches.	quasidef	Sand dollars	2
+Many	Many sand dollars have been known to be found on the beaches.	quasidef	Sand dollars	2
+Most	Most sand dollars have been known to be found on the beaches.	quasidef	Sand dollars	2
+All	All sand dollars have been known to be found on the beaches.	quasidef	Sand dollars	2
+Gen	Routers should be configured.	quasidef	Routers	0
+Few	Few routers should be configured.	quasidef	Routers	1
+Some	Some routers should be configured.	quasidef	Routers	1
+Many	Many routers should be configured.	quasidef	Routers	1
+Most	Most routers should be configured.	quasidef	Routers	1
+All	All routers should be configured.	quasidef	Routers	1
+Gen	Riverbanks may be used for recreational purposes.	character	Riverbanks	0
+Few	Few riverbanks may be used for recreational purposes.	character	Riverbanks	1
+Some	Some riverbanks may be used for recreational purposes.	character	Riverbanks	1
+Many	Many riverbanks may be used for recreational purposes.	character	Riverbanks	1
+Most	Most riverbanks may be used for recreational purposes.	character	Riverbanks	1
+All	All riverbanks may be used for recreational purposes.	character	Riverbanks	1
+Gen	Registers are used to keep track of the state.	character	Registers	0
+Few	Few registers are used to keep track of the state.	character	Registers	1
+Some	Some registers are used to keep track of the state.	character	Registers	1
+Many	Many registers are used to keep track of the state.	character	Registers	1
+Most	Most registers are used to keep track of the state.	character	Registers	1
+All	All registers are used to keep track of the state.	character	Registers	1
+Gen	Raccoons can be found in the wild.	quasidef	Raccoons	0
+Few	Few raccoons can be found in the wild.	quasidef	Raccoons	1
+Some	Some raccoons can be found in the wild.	quasidef	Raccoons	1
+Many	Many raccoons can be found in the wild.	quasidef	Raccoons	1
+Most	Most raccoons can be found in the wild.	quasidef	Raccoons	1
+All	All raccoons can be found in the wild.	quasidef	Raccoons	1
+Gen	Quakes should be reported to the usgs earthquake hazards program.	character	Quakes	0
+Few	Few quakes should be reported to the usgs earthquake hazards program.	character	Quakes	1
+Some	Some quakes should be reported to the usgs earthquake hazards program.	character	Quakes	1
+Many	Many quakes should be reported to the usgs earthquake hazards program.	character	Quakes	1
+Most	Most quakes should be reported to the usgs earthquake hazards program.	character	Quakes	1
+All	All quakes should be reported to the usgs earthquake hazards program.	character	Quakes	1
+Gen	Pressure cookers may have a higher pressure.	quasidef	Pressure cookers	1
+Few	Few pressure cookers may have a higher pressure.	quasidef	Pressure cookers	2
+Some	Some pressure cookers may have a higher pressure.	quasidef	Pressure cookers	2
+Many	Many pressure cookers may have a higher pressure.	quasidef	Pressure cookers	2
+Most	Most pressure cookers may have a higher pressure.	quasidef	Pressure cookers	2
+All	All pressure cookers may have a higher pressure.	quasidef	Pressure cookers	2
+Gen	Pressure cookers have a maximum temperature.	character	Pressure cookers	1
+Few	Few pressure cookers have a maximum temperature.	character	Pressure cookers	2
+Some	Some pressure cookers have a maximum temperature.	character	Pressure cookers	2
+Many	Many pressure cookers have a maximum temperature.	character	Pressure cookers	2
+Most	Most pressure cookers have a maximum temperature.	character	Pressure cookers	2
+All	All pressure cookers have a maximum temperature.	character	Pressure cookers	2
+Gen	Pressure cookers can be set to high or low temperatures.	character	Pressure cookers	1
+Few	Few pressure cookers can be set to high or low temperatures.	character	Pressure cookers	2
+Some	Some pressure cookers can be set to high or low temperatures.	character	Pressure cookers	2
+Many	Many pressure cookers can be set to high or low temperatures.	character	Pressure cookers	2
+Most	Most pressure cookers can be set to high or low temperatures.	character	Pressure cookers	2
+All	All pressure cookers can be set to high or low temperatures.	character	Pressure cookers	2
+Gen	Porpoises have the ability to swim.	quasidef	Porpoises	0
+Few	Few porpoises have the ability to swim.	quasidef	Porpoises	1
+Some	Some porpoises have the ability to swim.	quasidef	Porpoises	1
+Many	Many porpoises have the ability to swim.	quasidef	Porpoises	1
+Most	Most porpoises have the ability to swim.	quasidef	Porpoises	1
+All	All porpoises have the ability to swim.	quasidef	Porpoises	1
+Gen	Planes have to fly at a certain altitude.	character	Planes	0
+Few	Few planes have to fly at a certain altitude.	character	Planes	1
+Some	Some planes have to fly at a certain altitude.	character	Planes	1
+Many	Many planes have to fly at a certain altitude.	character	Planes	1
+Most	Most planes have to fly at a certain altitude.	character	Planes	1
+All	All planes have to fly at a certain altitude.	character	Planes	1
+Gen	Perfumes may have a very strong smell.	invirtue	Perfumes	0
+Few	Few perfumes may have a very strong smell.	invirtue	Perfumes	1
+Some	Some perfumes may have a very strong smell.	invirtue	Perfumes	1
+Many	Many perfumes may have a very strong smell.	invirtue	Perfumes	1
+Most	Most perfumes may have a very strong smell.	invirtue	Perfumes	1
+All	All perfumes may have a very strong smell.	invirtue	Perfumes	1
+Gen	Pecans produce a nutty, earthy flavor.	quasidef	Pecans	0
+Few	Few pecans produce a nutty, earthy flavor.	quasidef	Pecans	1
+Some	Some pecans produce a nutty, earthy flavor.	quasidef	Pecans	1
+Many	Many pecans produce a nutty, earthy flavor.	quasidef	Pecans	1
+Most	Most pecans produce a nutty, earthy flavor.	quasidef	Pecans	1
+All	All pecans produce a nutty, earthy flavor.	quasidef	Pecans	1
+Gen	Pecans may be eaten fresh, dried or roasted.	invirtue	Pecans	0
+Few	Few pecans may be eaten fresh, dried or roasted.	invirtue	Pecans	1
+Some	Some pecans may be eaten fresh, dried or roasted.	invirtue	Pecans	1
+Many	Many pecans may be eaten fresh, dried or roasted.	invirtue	Pecans	1
+Most	Most pecans may be eaten fresh, dried or roasted.	invirtue	Pecans	1
+All	All pecans may be eaten fresh, dried or roasted.	invirtue	Pecans	1
+Gen	Newspapers are owned by the people who buy them.	character	Newspapers	0
+Few	Few newspapers are owned by the people who buy them.	character	Newspapers	1
+Some	Some newspapers are owned by the people who buy them.	character	Newspapers	1
+Many	Many newspapers are owned by the people who buy them.	character	Newspapers	1
+Most	Most newspapers are owned by the people who buy them.	character	Newspapers	1
+All	All newspapers are owned by the people who buy them.	character	Newspapers	1
+Gen	Musical notes may be played on a piano, guitar, banjo, ukulele, etc.	quasidef	Musical notes	1
+Few	Few musical notes may be played on a piano, guitar, banjo, ukulele, etc.	quasidef	Musical notes	2
+Some	Some musical notes may be played on a piano, guitar, banjo, ukulele, etc.	quasidef	Musical notes	2
+Many	Many musical notes may be played on a piano, guitar, banjo, ukulele, etc.	quasidef	Musical notes	2
+Most	Most musical notes may be played on a piano, guitar, banjo, ukulele, etc.	quasidef	Musical notes	2
+All	All musical notes may be played on a piano, guitar, banjo, ukulele, etc.	quasidef	Musical notes	2
+Gen	Molluscs may be eaten raw, cooked, or boiled.	quasidef	Molluscs	0
+Few	Few molluscs may be eaten raw, cooked, or boiled.	quasidef	Molluscs	1
+Some	Some molluscs may be eaten raw, cooked, or boiled.	quasidef	Molluscs	1
+Many	Many molluscs may be eaten raw, cooked, or boiled.	quasidef	Molluscs	1
+Most	Most molluscs may be eaten raw, cooked, or boiled.	quasidef	Molluscs	1
+All	All molluscs may be eaten raw, cooked, or boiled.	quasidef	Molluscs	1
+Gen	Molluscs may be distinguished from other animals.	character	Molluscs	0
+Few	Few molluscs may be distinguished from other animals.	character	Molluscs	1
+Some	Some molluscs may be distinguished from other animals.	character	Molluscs	1
+Many	Many molluscs may be distinguished from other animals.	character	Molluscs	1
+Most	Most molluscs may be distinguished from other animals.	character	Molluscs	1
+All	All molluscs may be distinguished from other animals.	character	Molluscs	1
+Gen	Mesh skimmers are used to steal credit card data.	quasidef	Mesh skimmers	1
+Few	Few mesh skimmers are used to steal credit card data.	quasidef	Mesh skimmers	2
+Some	Some mesh skimmers are used to steal credit card data.	quasidef	Mesh skimmers	2
+Many	Many mesh skimmers are used to steal credit card data.	quasidef	Mesh skimmers	2
+Most	Most mesh skimmers are used to steal credit card data.	quasidef	Mesh skimmers	2
+All	All mesh skimmers are used to steal credit card data.	quasidef	Mesh skimmers	2
+Gen	Mango trees are grown for their fruit.	invirtue	Mango trees	1
+Few	Few mango trees are grown for their fruit.	invirtue	Mango trees	2
+Some	Some mango trees are grown for their fruit.	invirtue	Mango trees	2
+Many	Many mango trees are grown for their fruit.	invirtue	Mango trees	2
+Most	Most mango trees are grown for their fruit.	invirtue	Mango trees	2
+All	All mango trees are grown for their fruit.	invirtue	Mango trees	2
+Gen	Mandibles are used to hold the teeth.	quasidef	Mandibles	0
+Few	Few mandibles are used to hold the teeth.	quasidef	Mandibles	1
+Some	Some mandibles are used to hold the teeth.	quasidef	Mandibles	1
+Many	Many mandibles are used to hold the teeth.	quasidef	Mandibles	1
+Most	Most mandibles are used to hold the teeth.	quasidef	Mandibles	1
+All	All mandibles are used to hold the teeth.	quasidef	Mandibles	1
+Gen	Mandibles are made of bone.	character	Mandibles	0
+Few	Few mandibles are made of bone.	character	Mandibles	1
+Some	Some mandibles are made of bone.	character	Mandibles	1
+Many	Many mandibles are made of bone.	character	Mandibles	1
+Most	Most mandibles are made of bone.	character	Mandibles	1
+All	All mandibles are made of bone.	character	Mandibles	1
+Gen	Managements may have the right to terminate an employment relationship with an employee.	character	Managements	0
+Few	Few managements may have the right to terminate an employment relationship with an employee.	character	Managements	1
+Some	Some managements may have the right to terminate an employment relationship with an employee.	character	Managements	1
+Many	Many managements may have the right to terminate an employment relationship with an employee.	character	Managements	1
+Most	Most managements may have the right to terminate an employment relationship with an employee.	character	Managements	1
+All	All managements may have the right to terminate an employment relationship with an employee.	character	Managements	1
+Gen	Lorries should only be used to transport people or goods.	character	Lorries	0
+Few	Few lorries should only be used to transport people or goods.	character	Lorries	1
+Some	Some lorries should only be used to transport people or goods.	character	Lorries	1
+Many	Many lorries should only be used to transport people or goods.	character	Lorries	1
+Most	Most lorries should only be used to transport people or goods.	character	Lorries	1
+All	All lorries should only be used to transport people or goods.	character	Lorries	1
+Gen	Lorries are used to move goods from one place to another.	character	Lorries	0
+Few	Few lorries are used to move goods from one place to another.	character	Lorries	1
+Some	Some lorries are used to move goods from one place to another.	character	Lorries	1
+Many	Many lorries are used to move goods from one place to another.	character	Lorries	1
+Most	Most lorries are used to move goods from one place to another.	character	Lorries	1
+All	All lorries are used to move goods from one place to another.	character	Lorries	1
+Gen	Lorries are used to carry goods.	quasidef	Lorries	0
+Few	Few lorries are used to carry goods.	quasidef	Lorries	1
+Some	Some lorries are used to carry goods.	quasidef	Lorries	1
+Many	Many lorries are used to carry goods.	quasidef	Lorries	1
+Most	Most lorries are used to carry goods.	quasidef	Lorries	1
+All	All lorries are used to carry goods.	quasidef	Lorries	1
+Gen	Ladles are used for cooking.	quasidef	Ladles	0
+Few	Few ladles are used for cooking.	quasidef	Ladles	1
+Some	Some ladles are used for cooking.	quasidef	Ladles	1
+Many	Many ladles are used for cooking.	quasidef	Ladles	1
+Most	Most ladles are used for cooking.	quasidef	Ladles	1
+All	All ladles are used for cooking.	quasidef	Ladles	1
+Gen	Lactose intolerances have to do with an allergy to lactose.	quasidef	Lactose intolerances	1
+Few	Few lactose intolerances have to do with an allergy to lactose.	quasidef	Lactose intolerances	2
+Some	Some lactose intolerances have to do with an allergy to lactose.	quasidef	Lactose intolerances	2
+Many	Many lactose intolerances have to do with an allergy to lactose.	quasidef	Lactose intolerances	2
+Most	Most lactose intolerances have to do with an allergy to lactose.	quasidef	Lactose intolerances	2
+All	All lactose intolerances have to do with an allergy to lactose.	quasidef	Lactose intolerances	2
+Gen	Ice creams may be made with milk or cream.	quasidef	Ice creams	1
+Few	Few ice creams may be made with milk or cream.	quasidef	Ice creams	2
+Some	Some ice creams may be made with milk or cream.	quasidef	Ice creams	2
+Many	Many ice creams may be made with milk or cream.	quasidef	Ice creams	2
+Most	Most ice creams may be made with milk or cream.	quasidef	Ice creams	2
+All	All ice creams may be made with milk or cream.	quasidef	Ice creams	2
+Gen	Hoes are used for plowing, sowing.	quasidef	Hoes	0
+Few	Few hoes are used for plowing, sowing.	quasidef	Hoes	1
+Some	Some hoes are used for plowing, sowing.	quasidef	Hoes	1
+Many	Many hoes are used for plowing, sowing.	quasidef	Hoes	1
+Most	Most hoes are used for plowing, sowing.	quasidef	Hoes	1
+All	All hoes are used for plowing, sowing.	quasidef	Hoes	1
+Gen	Hippopotamus are herbivores that eat grasses.	quasidef	Hippopotamus	0
+Few	Few hippopotamus are herbivores that eat grasses.	quasidef	Hippopotamus	1
+Some	Some hippopotamus are herbivores that eat grasses.	quasidef	Hippopotamus	1
+Many	Many hippopotamus are herbivores that eat grasses.	quasidef	Hippopotamus	1
+Most	Most hippopotamus are herbivores that eat grasses.	quasidef	Hippopotamus	1
+All	All hippopotamus are herbivores that eat grasses.	quasidef	Hippopotamus	1
+Gen	Guns may be used to kill.	invirtue	Guns	0
+Few	Few guns may be used to kill.	invirtue	Guns	1
+Some	Some guns may be used to kill.	invirtue	Guns	1
+Many	Many guns may be used to kill.	invirtue	Guns	1
+Most	Most guns may be used to kill.	invirtue	Guns	1
+All	All guns may be used to kill.	invirtue	Guns	1
+Gen	Grizzly bears have a diet.	invirtue	Grizzly bears	1
+Few	Few grizzly bears have a diet.	invirtue	Grizzly bears	2
+Some	Some grizzly bears have a diet.	invirtue	Grizzly bears	2
+Many	Many grizzly bears have a diet.	invirtue	Grizzly bears	2
+Most	Most grizzly bears have a diet.	invirtue	Grizzly bears	2
+All	All grizzly bears have a diet.	invirtue	Grizzly bears	2
+Gen	Green vegetables can be eaten raw or cooked.	quasidef	Green vegetables	1
+Few	Few green vegetables can be eaten raw or cooked.	quasidef	Green vegetables	2
+Some	Some green vegetables can be eaten raw or cooked.	quasidef	Green vegetables	2
+Many	Many green vegetables can be eaten raw or cooked.	quasidef	Green vegetables	2
+Most	Most green vegetables can be eaten raw or cooked.	quasidef	Green vegetables	2
+All	All green vegetables can be eaten raw or cooked.	quasidef	Green vegetables	2
+Gen	Front yards are private property.	quasidef	Front yards	1
+Few	Few front yards are private property.	quasidef	Front yards	2
+Some	Some front yards are private property.	quasidef	Front yards	2
+Many	Many front yards are private property.	quasidef	Front yards	2
+Most	Most front yards are private property.	quasidef	Front yards	2
+All	All front yards are private property.	quasidef	Front yards	2
+Gen	Experimental evidences should be treated with caution.	quasidef	Experimental evidences	1
+Few	Few experimental evidences should be treated with caution.	quasidef	Experimental evidences	2
+Some	Some experimental evidences should be treated with caution.	quasidef	Experimental evidences	2
+Many	Many experimental evidences should be treated with caution.	quasidef	Experimental evidences	2
+Most	Most experimental evidences should be treated with caution.	quasidef	Experimental evidences	2
+All	All experimental evidences should be treated with caution.	quasidef	Experimental evidences	2
+Gen	Experimental evidences may have to be interpreted with caution.	character	Experimental evidences	1
+Few	Few experimental evidences may have to be interpreted with caution.	character	Experimental evidences	2
+Some	Some experimental evidences may have to be interpreted with caution.	character	Experimental evidences	2
+Many	Many experimental evidences may have to be interpreted with caution.	character	Experimental evidences	2
+Most	Most experimental evidences may have to be interpreted with caution.	character	Experimental evidences	2
+All	All experimental evidences may have to be interpreted with caution.	character	Experimental evidences	2
+Gen	Expeditions are organized by a group leader.	invirtue	Expeditions	0
+Few	Few expeditions are organized by a group leader.	invirtue	Expeditions	1
+Some	Some expeditions are organized by a group leader.	invirtue	Expeditions	1
+Many	Many expeditions are organized by a group leader.	invirtue	Expeditions	1
+Most	Most expeditions are organized by a group leader.	invirtue	Expeditions	1
+All	All expeditions are organized by a group leader.	invirtue	Expeditions	1
+Gen	Evergreen trees can be planted.	character	Evergreen trees	1
+Few	Few evergreen trees can be planted.	character	Evergreen trees	2
+Some	Some evergreen trees can be planted.	character	Evergreen trees	2
+Many	Many evergreen trees can be planted.	character	Evergreen trees	2
+Most	Most evergreen trees can be planted.	character	Evergreen trees	2
+All	All evergreen trees can be planted.	character	Evergreen trees	2
+Gen	Events have an effect on the world.	character	Events	0
+Few	Few events have an effect on the world.	character	Events	1
+Some	Some events have an effect on the world.	character	Events	1
+Many	Many events have an effect on the world.	character	Events	1
+Most	Most events have an effect on the world.	character	Events	1
+All	All events have an effect on the world.	character	Events	1
+Gen	Dvd players are used for watching movies.	quasidef	Dvd players	1
+Few	Few dvd players are used for watching movies.	quasidef	Dvd players	2
+Some	Some dvd players are used for watching movies.	quasidef	Dvd players	2
+Many	Many dvd players are used for watching movies.	quasidef	Dvd players	2
+Most	Most dvd players are used for watching movies.	quasidef	Dvd players	2
+All	All dvd players are used for watching movies.	quasidef	Dvd players	2
+Gen	Detergents should be rinsed off after use.	quasidef	Detergents	0
+Few	Few detergents should be rinsed off after use.	quasidef	Detergents	1
+Some	Some detergents should be rinsed off after use.	quasidef	Detergents	1
+Many	Many detergents should be rinsed off after use.	quasidef	Detergents	1
+Most	Most detergents should be rinsed off after use.	quasidef	Detergents	1
+All	All detergents should be rinsed off after use.	quasidef	Detergents	1
+Gen	Decanters may have a maximum capacity.	quasidef	Decanters	0
+Few	Few decanters may have a maximum capacity.	quasidef	Decanters	1
+Some	Some decanters may have a maximum capacity.	quasidef	Decanters	1
+Many	Many decanters may have a maximum capacity.	quasidef	Decanters	1
+Most	Most decanters may have a maximum capacity.	quasidef	Decanters	1
+All	All decanters may have a maximum capacity.	quasidef	Decanters	1
+Gen	Cushions are made of a material.	quasidef	Cushions	0
+Few	Few cushions are made of a material.	quasidef	Cushions	1
+Some	Some cushions are made of a material.	quasidef	Cushions	1
+Many	Many cushions are made of a material.	quasidef	Cushions	1
+Most	Most cushions are made of a material.	quasidef	Cushions	1
+All	All cushions are made of a material.	quasidef	Cushions	1
+Gen	Cudgels can be made of metal, wood, stone, or any other material.	character	Cudgels	0
+Few	Few cudgels can be made of metal, wood, stone, or any other material.	character	Cudgels	1
+Some	Some cudgels can be made of metal, wood, stone, or any other material.	character	Cudgels	1
+Many	Many cudgels can be made of metal, wood, stone, or any other material.	character	Cudgels	1
+Most	Most cudgels can be made of metal, wood, stone, or any other material.	character	Cudgels	1
+All	All cudgels can be made of metal, wood, stone, or any other material.	character	Cudgels	1
+Gen	Crabapples can be eaten raw or cooked.	invirtue	Crabapples	0
+Few	Few crabapples can be eaten raw or cooked.	invirtue	Crabapples	1
+Some	Some crabapples can be eaten raw or cooked.	invirtue	Crabapples	1
+Many	Many crabapples can be eaten raw or cooked.	invirtue	Crabapples	1
+Most	Most crabapples can be eaten raw or cooked.	invirtue	Crabapples	1
+All	All crabapples can be eaten raw or cooked.	invirtue	Crabapples	1
+Gen	Coyotes have been known to prey on small mammals, including rabbits, squirrels, chipmunks, skunks	invirtue	Coyotes	0
+Few	Few coyotes have been known to prey on small mammals, including rabbits, squirrels, chipmunks, skunks	invirtue	Coyotes	1
+Some	Some coyotes have been known to prey on small mammals, including rabbits, squirrels, chipmunks, skunks	invirtue	Coyotes	1
+Many	Many coyotes have been known to prey on small mammals, including rabbits, squirrels, chipmunks, skunks	invirtue	Coyotes	1
+Most	Most coyotes have been known to prey on small mammals, including rabbits, squirrels, chipmunks, skunks	invirtue	Coyotes	1
+All	All coyotes have been known to prey on small mammals, including rabbits, squirrels, chipmunks, skunks	invirtue	Coyotes	1
+Gen	Cough syrups have a sweet taste.	character	Cough syrups	1
+Few	Few cough syrups have a sweet taste.	character	Cough syrups	2
+Some	Some cough syrups have a sweet taste.	character	Cough syrups	2
+Many	Many cough syrups have a sweet taste.	character	Cough syrups	2
+Most	Most cough syrups have a sweet taste.	character	Cough syrups	2
+All	All cough syrups have a sweet taste.	character	Cough syrups	2
+Gen	Cookers may be used to boil water or to boil pasta.	character	Cookers	0
+Few	Few cookers may be used to boil water or to boil pasta.	character	Cookers	1
+Some	Some cookers may be used to boil water or to boil pasta.	character	Cookers	1
+Many	Many cookers may be used to boil water or to boil pasta.	character	Cookers	1
+Most	Most cookers may be used to boil water or to boil pasta.	character	Cookers	1
+All	All cookers may be used to boil water or to boil pasta.	character	Cookers	1
+Gen	Cookbooks are written for people who cook.	quasidef	Cookbooks	0
+Few	Few cookbooks are written for people who cook.	quasidef	Cookbooks	1
+Some	Some cookbooks are written for people who cook.	quasidef	Cookbooks	1
+Many	Many cookbooks are written for people who cook.	quasidef	Cookbooks	1
+Most	Most cookbooks are written for people who cook.	quasidef	Cookbooks	1
+All	All cookbooks are written for people who cook.	quasidef	Cookbooks	1
+Gen	Concert halls should be equipped with a soundproofing system.	character	Concert halls	1
+Few	Few concert halls should be equipped with a soundproofing system.	character	Concert halls	2
+Some	Some concert halls should be equipped with a soundproofing system.	character	Concert halls	2
+Many	Many concert halls should be equipped with a soundproofing system.	character	Concert halls	2
+Most	Most concert halls should be equipped with a soundproofing system.	character	Concert halls	2
+All	All concert halls should be equipped with a soundproofing system.	character	Concert halls	2
+Gen	Concert halls have their own sound systems, which can be quite expensive.	character	Concert halls	1
+Few	Few concert halls have their own sound systems, which can be quite expensive.	character	Concert halls	2
+Some	Some concert halls have their own sound systems, which can be quite expensive.	character	Concert halls	2
+Many	Many concert halls have their own sound systems, which can be quite expensive.	character	Concert halls	2
+Most	Most concert halls have their own sound systems, which can be quite expensive.	character	Concert halls	2
+All	All concert halls have their own sound systems, which can be quite expensive.	character	Concert halls	2
+Gen	Coasters may have a maximum speed limit.	character	Coasters	0
+Few	Few coasters may have a maximum speed limit.	character	Coasters	1
+Some	Some coasters may have a maximum speed limit.	character	Coasters	1
+Many	Many coasters may have a maximum speed limit.	character	Coasters	1
+Most	Most coasters may have a maximum speed limit.	character	Coasters	1
+All	All coasters may have a maximum speed limit.	character	Coasters	1
+Gen	Clocks have to be synchronized.	character	Clocks	0
+Few	Few clocks have to be synchronized.	character	Clocks	1
+Some	Some clocks have to be synchronized.	character	Clocks	1
+Many	Many clocks have to be synchronized.	character	Clocks	1
+Most	Most clocks have to be synchronized.	character	Clocks	1
+All	All clocks have to be synchronized.	character	Clocks	1
+Gen	Chapels are open to the public during regular hours.	character	Chapels	0
+Few	Few chapels are open to the public during regular hours.	character	Chapels	1
+Some	Some chapels are open to the public during regular hours.	character	Chapels	1
+Many	Many chapels are open to the public during regular hours.	character	Chapels	1
+Most	Most chapels are open to the public during regular hours.	character	Chapels	1
+All	All chapels are open to the public during regular hours.	character	Chapels	1
+Gen	Camps are set up to provide a safe, secure place to sleep.	quasidef	Camps	0
+Few	Few camps are set up to provide a safe, secure place to sleep.	quasidef	Camps	1
+Some	Some camps are set up to provide a safe, secure place to sleep.	quasidef	Camps	1
+Many	Many camps are set up to provide a safe, secure place to sleep.	quasidef	Camps	1
+Most	Most camps are set up to provide a safe, secure place to sleep.	quasidef	Camps	1
+All	All camps are set up to provide a safe, secure place to sleep.	quasidef	Camps	1
+Gen	Cameras have a maximum shutter speed.	quasidef	Cameras	0
+Few	Few cameras have a maximum shutter speed.	quasidef	Cameras	1
+Some	Some cameras have a maximum shutter speed.	quasidef	Cameras	1
+Many	Many cameras have a maximum shutter speed.	quasidef	Cameras	1
+Most	Most cameras have a maximum shutter speed.	quasidef	Cameras	1
+All	All cameras have a maximum shutter speed.	quasidef	Cameras	1
+Gen	Cameras are used to capture the world around us.	quasidef	Cameras	0
+Few	Few cameras are used to capture the world around us.	quasidef	Cameras	1
+Some	Some cameras are used to capture the world around us.	quasidef	Cameras	1
+Many	Many cameras are used to capture the world around us.	quasidef	Cameras	1
+Most	Most cameras are used to capture the world around us.	quasidef	Cameras	1
+All	All cameras are used to capture the world around us.	quasidef	Cameras	1
+Gen	Cakes can be purchased.	character	Cakes	0
+Few	Few cakes can be purchased.	character	Cakes	1
+Some	Some cakes can be purchased.	character	Cakes	1
+Many	Many cakes can be purchased.	character	Cakes	1
+Most	Most cakes can be purchased.	character	Cakes	1
+All	All cakes can be purchased.	character	Cakes	1
+Gen	Bulldozers are used for construction.	quasidef	Bulldozers	0
+Few	Few bulldozers are used for construction.	quasidef	Bulldozers	1
+Some	Some bulldozers are used for construction.	quasidef	Bulldozers	1
+Many	Many bulldozers are used for construction.	quasidef	Bulldozers	1
+Most	Most bulldozers are used for construction.	quasidef	Bulldozers	1
+All	All bulldozers are used for construction.	quasidef	Bulldozers	1
+Gen	Bluetooth speakers are meant to be used with a smartphone.	invirtue	Bluetooth speakers	1
+Few	Few bluetooth speakers are meant to be used with a smartphone.	invirtue	Bluetooth speakers	2
+Some	Some bluetooth speakers are meant to be used with a smartphone.	invirtue	Bluetooth speakers	2
+Many	Many bluetooth speakers are meant to be used with a smartphone.	invirtue	Bluetooth speakers	2
+Most	Most bluetooth speakers are meant to be used with a smartphone.	invirtue	Bluetooth speakers	2
+All	All bluetooth speakers are meant to be used with a smartphone.	invirtue	Bluetooth speakers	2
+Gen	Backhoes can be found in the backyards, garages, basements, crawlspaces, etc.	character	Backhoes	0
+Few	Few backhoes can be found in the backyards, garages, basements, crawlspaces, etc.	character	Backhoes	1
+Some	Some backhoes can be found in the backyards, garages, basements, crawlspaces, etc.	character	Backhoes	1
+Many	Many backhoes can be found in the backyards, garages, basements, crawlspaces, etc.	character	Backhoes	1
+Most	Most backhoes can be found in the backyards, garages, basements, crawlspaces, etc.	character	Backhoes	1
+All	All backhoes can be found in the backyards, garages, basements, crawlspaces, etc.	character	Backhoes	1
+Gen	Baboons have been known to use their teeth.	character	Baboons	0
+Few	Few baboons have been known to use their teeth.	character	Baboons	1
+Some	Some baboons have been known to use their teeth.	character	Baboons	1
+Many	Many baboons have been known to use their teeth.	character	Baboons	1
+Most	Most baboons have been known to use their teeth.	character	Baboons	1
+All	All baboons have been known to use their teeth.	character	Baboons	1
+Gen	Assets are valued based on their current market value.	quasidef	Assets	0
+Few	Few assets are valued based on their current market value.	quasidef	Assets	1
+Some	Some assets are valued based on their current market value.	quasidef	Assets	1
+Many	Many assets are valued based on their current market value.	quasidef	Assets	1
+Most	Most assets are valued based on their current market value.	quasidef	Assets	1
+All	All assets are valued based on their current market value.	quasidef	Assets	1
+Gen	Assets are valued at their fair market values.	quasidef	Assets	0
+Few	Few assets are valued at their fair market values.	quasidef	Assets	1
+Some	Some assets are valued at their fair market values.	quasidef	Assets	1
+Many	Many assets are valued at their fair market values.	quasidef	Assets	1
+Most	Most assets are valued at their fair market values.	quasidef	Assets	1
+All	All assets are valued at their fair market values.	quasidef	Assets	1
+Gen	Amino acids produce structural changes in proteins.	quasidef	Amino acids	1
+Few	Few amino acids produce structural changes in proteins.	quasidef	Amino acids	2
+Some	Some amino acids produce structural changes in proteins.	quasidef	Amino acids	2
+Many	Many amino acids produce structural changes in proteins.	quasidef	Amino acids	2
+Most	Most amino acids produce structural changes in proteins.	quasidef	Amino acids	2
+All	All amino acids produce structural changes in proteins.	quasidef	Amino acids	2
+Gen	Alligators are found in florida.	quasidef	Alligators	0
+Few	Few alligators are found in florida.	quasidef	Alligators	1
+Some	Some alligators are found in florida.	quasidef	Alligators	1
+Many	Many alligators are found in florida.	quasidef	Alligators	1
+Most	Most alligators are found in florida.	quasidef	Alligators	1
+All	All alligators are found in florida.	quasidef	Alligators	1
+Gen	Advertisements should focus on the product.	quasidef	Advertisements	0
+Few	Few advertisements should focus on the product.	quasidef	Advertisements	1
+Some	Some advertisements should focus on the product.	quasidef	Advertisements	1
+Many	Many advertisements should focus on the product.	quasidef	Advertisements	1
+Most	Most advertisements should focus on the product.	quasidef	Advertisements	1
+All	All advertisements should focus on the product.	quasidef	Advertisements	1
+Gen	Frogs are smaller than most birds.	character	Frogs	0
+Few	Few frogs are smaller than most birds.	character	Frogs	1
+Some	Some frogs are smaller than most birds.	character	Frogs	1
+Many	Many frogs are smaller than most birds.	character	Frogs	1
+Most	Most frogs are smaller than most birds.	character	Frogs	1
+All	All frogs are smaller than most birds.	character	Frogs	1
+Gen	Frogs are an important part of the ecosystem.	character	Frogs	0
+Few	Few frogs are an important part of the ecosystem.	character	Frogs	1
+Some	Some frogs are an important part of the ecosystem.	character	Frogs	1
+Many	Many frogs are an important part of the ecosystem.	character	Frogs	1
+Most	Most frogs are an important part of the ecosystem.	character	Frogs	1
+All	All frogs are an important part of the ecosystem.	character	Frogs	1
+Gen	Fabric softeners can be used for softening.	quasidef	Fabric softeners	1
+Few	Few fabric softeners can be used for softening.	quasidef	Fabric softeners	2
+Some	Some fabric softeners can be used for softening.	quasidef	Fabric softeners	2
+Many	Many fabric softeners can be used for softening.	quasidef	Fabric softeners	2
+Most	Most fabric softeners can be used for softening.	quasidef	Fabric softeners	2
+All	All fabric softeners can be used for softening.	quasidef	Fabric softeners	2
+Gen	Fabric softeners can be considered to be a chemical.	character	Fabric softeners	1
+Few	Few fabric softeners can be considered to be a chemical.	character	Fabric softeners	2
+Some	Some fabric softeners can be considered to be a chemical.	character	Fabric softeners	2
+Many	Many fabric softeners can be considered to be a chemical.	character	Fabric softeners	2
+Most	Most fabric softeners can be considered to be a chemical.	character	Fabric softeners	2
+All	All fabric softeners can be considered to be a chemical.	character	Fabric softeners	2
+Gen	Daffodils are a great way to brighten up your garden.	character	Daffodils	0
+Few	Few daffodils are a great way to brighten up your garden.	character	Daffodils	1
+Some	Some daffodils are a great way to brighten up your garden.	character	Daffodils	1
+Many	Many daffodils are a great way to brighten up your garden.	character	Daffodils	1
+Most	Most daffodils are a great way to brighten up your garden.	character	Daffodils	1
+All	All daffodils are a great way to brighten up your garden.	character	Daffodils	1
+Gen	Coincidences are everywhere in life.	character	Coincidences	0
+Few	Few coincidences are everywhere in life.	character	Coincidences	1
+Some	Some coincidences are everywhere in life.	character	Coincidences	1
+Many	Many coincidences are everywhere in life.	character	Coincidences	1
+Most	Most coincidences are everywhere in life.	character	Coincidences	1
+All	All coincidences are everywhere in life.	character	Coincidences	1
+Gen	Chimpanzees have been shown to be able to use tools.	character	Chimpanzees	0
+Few	Few chimpanzees have been shown to be able to use tools.	character	Chimpanzees	1
+Some	Some chimpanzees have been shown to be able to use tools.	character	Chimpanzees	1
+Many	Many chimpanzees have been shown to be able to use tools.	character	Chimpanzees	1
+Most	Most chimpanzees have been shown to be able to use tools.	character	Chimpanzees	1
+All	All chimpanzees have been shown to be able to use tools.	character	Chimpanzees	1
+Gen	Chimpanzees are known to use tools to obtain food.	invirtue	Chimpanzees	0
+Few	Few chimpanzees are known to use tools to obtain food.	invirtue	Chimpanzees	1
+Some	Some chimpanzees are known to use tools to obtain food.	invirtue	Chimpanzees	1
+Many	Many chimpanzees are known to use tools to obtain food.	invirtue	Chimpanzees	1
+Most	Most chimpanzees are known to use tools to obtain food.	invirtue	Chimpanzees	1
+All	All chimpanzees are known to use tools to obtain food.	invirtue	Chimpanzees	1
+Gen	Cameras should be able to see.	character	Cameras	0
+Few	Few cameras should be able to see.	character	Cameras	1
+Some	Some cameras should be able to see.	character	Cameras	1
+Many	Many cameras should be able to see.	character	Cameras	1
+Most	Most cameras should be able to see.	character	Cameras	1
+All	All cameras should be able to see.	character	Cameras	1
+Gen	Cameras have long been used to capture images.	quasidef	Cameras	0
+Few	Few cameras have long been used to capture images.	quasidef	Cameras	1
+Some	Some cameras have long been used to capture images.	quasidef	Cameras	1
+Many	Many cameras have long been used to capture images.	quasidef	Cameras	1
+Most	Most cameras have long been used to capture images.	quasidef	Cameras	1
+All	All cameras have long been used to capture images.	quasidef	Cameras	1
+Gen	Aquatic animals may be able to breathe air.	character	Aquatic animals	1
+Few	Few aquatic animals may be able to breathe air.	character	Aquatic animals	2
+Some	Some aquatic animals may be able to breathe air.	character	Aquatic animals	2
+Many	Many aquatic animals may be able to breathe air.	character	Aquatic animals	2
+Most	Most aquatic animals may be able to breathe air.	character	Aquatic animals	2
+All	All aquatic animals may be able to breathe air.	character	Aquatic animals	2
+Gen	Aquatic animals are found in the water.	quasidef	Aquatic animals	1
+Few	Few aquatic animals are found in the water.	quasidef	Aquatic animals	2
+Some	Some aquatic animals are found in the water.	quasidef	Aquatic animals	2
+Many	Many aquatic animals are found in the water.	quasidef	Aquatic animals	2
+Most	Most aquatic animals are found in the water.	quasidef	Aquatic animals	2
+All	All aquatic animals are found in the water.	quasidef	Aquatic animals	2
+Gen	Alligators are faster than humans on land.	invirtue	Alligators	0
+Few	Few alligators are faster than humans on land.	invirtue	Alligators	1
+Some	Some alligators are faster than humans on land.	invirtue	Alligators	1
+Many	Many alligators are faster than humans on land.	invirtue	Alligators	1
+Most	Most alligators are faster than humans on land.	invirtue	Alligators	1
+All	All alligators are faster than humans on land.	invirtue	Alligators	1
